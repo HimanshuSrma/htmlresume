@@ -5,10 +5,11 @@ Single-page resume website built with **pure HTML** (no CSS, no JavaScript). Sub
 ## Live Demo
 
 - **File:** [index.html](./index.html)
-- **Hosted link:** _add your GitHub Pages / Netlify link here_
+- **Hosted link:** [click here](https://himanshusrma.github.io/htmlresume/)
 
 ## Preview
 
+<img width="2938" height="1596" alt="image" src="https://github.com/user-attachments/assets/166d430e-4c9c-4d80-aa4e-6a27f6e05485" />
 
 
 ## Tech Stack
@@ -34,7 +35,7 @@ No build step required.
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/HimanshuSrma/htmlresume.git
 cd <repo-name>
 
 # Open in browser
